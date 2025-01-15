@@ -3,12 +3,15 @@
 These are filters and overlays for making certain systems display better on the 752x560 resolution if the Miyoo Mini v4.
 
 Integer Scaling:
+
 GBA Perfect 3x - Offset
+
 Wonderswan 3x - Offset
 
 These are offset so that the left right and top bezels are equal width. Square pixel grid with optional bezels. Made possible by u/Sikalop 's custom offset filter, "Offset_up8px.filt", which needs to be enabled in the video menu of retroarch, found under custom offset. "Offset_down13px.filt" is used for some wonderswan overlays.
 
 GB 4x - Crop or Crunch
+
 Neo Geo Pocket 4x - Crop or Crunch
 
 This is an overscale to achieve 4x integer scaling for these 1:1 handhelds. GB has a very slight 4px vertical crop, whereas the NGP has a more significant 12px. The crunch filters compress pixels near the edges of the screen rather than crop them. There are different grid styles that work with any of the filter files, so chose your preference — I like the cube overlay at 50% opacity. Both systems use the same overlays. The filter file should be set as an override depending on each game to ensure that important pixels dont get cropped. 
