@@ -6,7 +6,9 @@ It is probably a good idea to also edit the offset_upXXpx.filt file name to refl
 
 Do not edit the name of the .so file
 
-Notes for Overlays:
 
-Use "Offset_up8px.filt" for GBA 3x and WS 3x top overlays
-Use "Offset_down13px.filt" for WS 3x bottom overlays
+Notes for MMv4 overlays:
+
+Use "Offset_up8px.filt" file for gba_3x and ws_3x_top overlays
+
+Use "Offset_down13px.filt" file for wx_3x_bottom overlays
