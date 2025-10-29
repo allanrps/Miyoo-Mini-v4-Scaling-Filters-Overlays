@@ -20,7 +20,7 @@ MSX 3x - Crop
 
 This is a  full screen 3x overscale with a very slight vertical and horizontal crop. To use this filter, the crop mode must be set to "MSX" in core options. Set the proper filter for each game so that important horizontal and vertical pixels dont get cropped. You can use the "MMv4" overlays, which are CRT frames + effects for the fullscreen MMv4 resolution
 
-Misc Overscale - Crop
+Misc Overscale 3x - Crop
 
 These are filters designed to 3x overscale various resolutions which were used on home consoles and arcade systems. Significant screenspace is cropped, so these do not work well with all games. Many games however, particularly those with substantial HUDs, really benefit. Use 256x224 for most SNES, Genesis, or PC Engine games. 304x224 works for NEOGEO. 384x224 works for CPS2&3.
 
